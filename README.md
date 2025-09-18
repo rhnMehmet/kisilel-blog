@@ -16,4 +16,4 @@ Sitede hakkımda, oyunlarım ve videolar bölümleri bulunmaktadır.
 ## 🚀 Kurulum ve Çalıştırma
 1. Projeyi bilgisayarınıza indirin:
    ```bash
-   git clone https://github.com/kullaniciAdi/projeAdi.git
+   git clone https://github.com/rhnMehmet/kisisel-blog.git
