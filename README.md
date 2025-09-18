@@ -1,7 +1,11 @@
 # Kişisel Blog - Mehmet Orhan
 
+# Kişisel Blog - Mehmet Orhan
+
 Bu proje, **HTML ve CSS** kullanılarak hazırlanmış kişisel blog sitesidir.  
-Sitede hakkımda, oyunlarım ve videolar bölümleri bulunmaktadır.
+Sitede hakkımda, oyunlarım ve videolar bölümleri bulunmaktadır.  
+
+🌐 Canlı siteyi incelemek için: [https://kisilel-blog.vercel.app](https://kisilel-blog.vercel.app)
 
 ## 📂 Sayfalar
 - **Ana Sayfa** → Genel tanıtım
