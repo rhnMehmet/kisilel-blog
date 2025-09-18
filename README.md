@@ -1,0 +1,19 @@
+# Kişisel Blog - Mehmet Orhan
+
+Bu proje, **HTML ve CSS** kullanılarak hazırlanmış kişisel blog sitesidir.  
+Sitede hakkımda, oyunlarım ve videolar bölümleri bulunmaktadır.
+
+## 📂 Sayfalar
+- **Ana Sayfa** → Genel tanıtım
+- **Hakkımda** → Kendimle ilgili bilgiler
+- **Oyunlar** → Sevdiğim oyunların resim ve bilgileri
+- **Videolar** → En sevdiğim oyun *NFS Most Wanted* tanıtım videosu
+
+## 🛠️ Kullanılan Teknolojiler
+- HTML5
+- CSS3
+
+## 🚀 Kurulum ve Çalıştırma
+1. Projeyi bilgisayarınıza indirin:
+   ```bash
+   git clone https://github.com/kullaniciAdi/projeAdi.git

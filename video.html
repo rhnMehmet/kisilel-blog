@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Videolar - Most Wanted</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #1e1e1e; /* Koyu gri */
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 50px 0;
+    }
+    h1 {
+      font-size: 60px;
+      margin: 0;
+      color: #f1f1f1;
+    }
+    nav {
+      margin-top: 30px;
+    }
+    nav a {
+      display: inline-block;
+      margin: 0 15px;
+      padding: 10px 20px;
+      border: 2px solid white;
+      border-radius: 50px;
+      color: white;
+      text-decoration: none;
+
+    }
+    nav a:hover {
+      background: rgba(255,255,255,0.2);
+    }
+    .video-container {
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+    }
+    iframe {
+      width: 80%;
+      max-width: 800px;
+      height: 450px;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0px 0px 20px rgba(0,0,0,0.7);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MOST WANTED</h1>
+    <nav>
+      <a href="index.html">Ana Sayfa</a>
+      <a href="hakkimda.html">Hakkımda</a>
+      <a href="oyunlar.html">Oyunlar</a>
+    </nav>
+  </header>
+
+  <section class="video-container">
+    <iframe src="https://www.youtube.com/embed/vEVzGMKNiGE" 
+            title="YouTube video oynatıcı" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+  </section>
+   <footer class="site-footer">
+    <p>&copy; 2025 Mehmet Orhan - Öğrenci No: 2321032059</p>
+  </footer>
+</body>
+</html>
