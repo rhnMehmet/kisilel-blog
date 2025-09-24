@@ -5,7 +5,7 @@
 Bu proje, **HTML ve CSS** kullanılarak hazırlanmış kişisel blog sitesidir.  
 Sitede hakkımda, oyunlarım ve videolar bölümleri bulunmaktadır.
 
-Canlı siteyi incelemek için: [sitem](https://kisilel-blog.vercel.app)
+🌐Canlı siteyi incelemek için: [sitem](https://kisilel-blog.vercel.app)
 
 
 
