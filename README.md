@@ -15,8 +15,8 @@ Sitede hakkımda, oyunlarım ve videolar bölümleri bulunmaktadır.
 - **Videolar** → En sevdiğim oyun *NFS Most Wanted* tanıtım videosu
 
 ## 🛠️ Kullanılan Teknolojiler
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 🚀 Kurulum ve Çalıştırma
 1. Projeyi bilgisayarınıza indirin:
